@@ -1,1 +1,10 @@
-
+customtkinter==5.2.2
+opencv-python
+numpy
+pandas
+openpyxl
+PyMuPDF
+pillow
+paddleocr
+paddlepaddle
+pyinstaller
