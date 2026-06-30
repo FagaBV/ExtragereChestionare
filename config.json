@@ -1,1 +1,8 @@
-
+{
+    "excel_file": "output/Rezultate.xlsx",
+    "log_file": "logs/log.txt",
+    "checkpoint_file": "temp/checkpoint.json",
+    "confidence_limit": 70,
+    "duplicate_check": true,
+    "autosave": true
+}
